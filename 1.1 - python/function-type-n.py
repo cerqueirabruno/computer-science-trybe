@@ -1,4 +1,5 @@
 # TYPE;
+
 # definição: função usada para retornar o tipo de um objeto;
 
 

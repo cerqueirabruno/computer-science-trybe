@@ -1,6 +1,5 @@
 # FOR;
 
-
 restaurants = [
     {"name": "Restaurante A", "nota": 4.5},
     {"name": "Restaurante B", "nota": 3.0},

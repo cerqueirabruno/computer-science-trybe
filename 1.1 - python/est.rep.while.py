@@ -1,6 +1,6 @@
 # WHILE;
-# definição: executa um bloco de código enquanto a condição for verdadeira;
 
+# definição: executa um bloco de código enquanto a condição for verdadeira;
 
 n = 10
 last, next = 0, 1

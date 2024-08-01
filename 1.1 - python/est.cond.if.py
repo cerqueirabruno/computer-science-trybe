@@ -1,6 +1,5 @@
 # IF, ELIF, ELSE;
 
-
 salary = 8000
 position = ""
 

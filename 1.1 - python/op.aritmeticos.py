@@ -1,3 +1,5 @@
+# OPERADORES ARITMÉTICOS;
+
 soma = 2 + 3  # saída: 5
 subtracao = 3 - 2  # saída: 1
 multiplicacao = 2 * 3  # saída: 6
