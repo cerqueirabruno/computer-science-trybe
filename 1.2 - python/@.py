@@ -15,3 +15,11 @@
 # importância dos dados na empresa
 # integração de sistemas
 # importancia dos testes automatizados
+
+
+# INTERPOLAÇÃO DE VARIÁVEIS;
+nome = "Alice"
+idade = 30
+mensagem = f"Meu nome é {nome} e eu tenho {idade} anos."
+
+print(mensagem)

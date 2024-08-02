@@ -1,5 +1,8 @@
 # DESENPACOTAMENTO DE VALORES;
 
+# definição: quando queremos separar os valores recebidos em
+#   variáveis diferentes;
+
 a, b = "cd"
 
 print(a)  # c
